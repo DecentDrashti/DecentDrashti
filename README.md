@@ -1,6 +1,6 @@
 - 👋 Hi, Myself Drashti Ruparelia.
 - 👀 I’m interested in creating my dreams to reality.
-- 🌱 I’m currently pursuing B.tech CSE from Darshan University.
+- 🌱 I’m currently pursuing B.tech in COMPUTER SCIENCE AND ENGINEERING.
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/d_dr.as.hti_r) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/drashti-ruparelia-67b7432b6) 
 
