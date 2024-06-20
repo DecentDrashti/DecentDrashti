@@ -1,4 +1,4 @@
-- 👋 Hi, Myself Drashti Ruparelia.
+- 👋 Hey, Myself Drashti Ruparelia.
 - 👀 I’m interested in creating my dreams to reality.
 - 🌱 I’m currently pursuing B.tech in COMPUTER SCIENCE AND ENGINEERING.
 ## 🌐 Socials:
