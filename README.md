@@ -1,6 +1,6 @@
 # 👩‍💻 Drashti Ruparelia
 
-Hey there! 👋 I'm **Drashti Ruparelia**, a passionate learner and aspiring software engineer from 🇮🇳. I'm on a mission to transform my **dreams into reality** through code, creativity, and consistency.
+Hey there! 👋 I'm **Drashti Ruparelia**, a passionate learner and aspiring software engineer from 🇮🇳. I'm on a mission to **turn my dreams into reality**  through code, creativity, and consistency.
 
 ## 🌱 Currently Pursuing:
 🎓 **B.Tech in Computer Science and Engineering**  
@@ -12,16 +12,6 @@ Hey there! 👋 I'm **Drashti Ruparelia**, a passionate learner and aspiring sof
 - Participating in hackathons and coding competitions ⚔️
 - Contributing to open source 🔗
 - Learning about AI, Web Development, and Software Architecture 🚀
-
-## 📫 Let's Connect:
-- 🌐 [LinkedIn](https://in.linkedin.com/in/drashti-ruparelia-67b7432b6)
-- 📧 Email: [drashtiruparelia.678@gmail.com](mailto:drashtiruparelia.678@gmail.com)
-
----
-
-> ✨ "I don’t just dream big — I build big!" ✨
-
-Thanks for visiting my profile! ⭐
 
 ## 🌐 Let's Connect:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/d_dr.as.hti_r) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/drashti-ruparelia-67b7432b6) [![Email](https://img.shields.io/badge/Email-%23D14836.svg?logo=gmail&logoColor=white)](mailto:drashtiruparelia.678@gmail.com)
