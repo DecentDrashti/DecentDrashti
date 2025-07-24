@@ -11,7 +11,7 @@ Hey there! 👋 I'm **Drashti Ruparelia**, a passionate learner and aspiring sof
 - Exploring new technologies and frameworks 💻
 - Participating in hackathons and coding competitions ⚔️
 - Contributing to open source 🔗
-- Learning about AI, Web Development, and Software Architecture 🚀
+- Learning about AI, Web Development, Game Development and Software Architecture 🚀
 
 ## 🌐 Let's Connect:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/d_dr.as.hti_r) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/drashti-ruparelia-67b7432b6) [![Email](https://img.shields.io/badge/Email-%23D14836.svg?logo=gmail&logoColor=white)](mailto:drashtiruparelia.678@gmail.com)
