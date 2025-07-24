@@ -32,6 +32,9 @@ Hey there! 👋 I'm **Drashti Ruparelia**, a passionate learner and aspiring sof
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=DecentDrashti&limit=5&theme=default&combine_all_yearly_contributions=true)
 
+✨ *"I believe that every line of code brings me one step closer to the future I dream of."*  
+> — *Drashti Ruparelia*
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!---
