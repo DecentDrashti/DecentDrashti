@@ -9,7 +9,7 @@ Hey there! 👋 I'm **Drashti Ruparelia**, a passionate learner and aspiring sof
 ## 🔥 About Me
 - 📌 Sharpening my skills in Data Structures & Algorithms, Web Development with .NET Core and MERN Stack  
 - 💻 Proficient in Java, C, Python, C#  
-- 🎯 Actively learning about AI, Web Development, Game Development, and Software Architecture 🚀
+- 🎯 Actively learning about Web Development, Internet Of Things 🚀
 
 ## 💡 What I’m Interested In:
 - Building real-world applications that solve meaningful problems 🌍
@@ -17,7 +17,8 @@ Hey there! 👋 I'm **Drashti Ruparelia**, a passionate learner and aspiring sof
 - Participating in hackathons and coding competitions ⚔️
 - Contributing to open source 🔗
 - Building Mern Stack 
-
+- Learning about AI, Game Development, and Software Architecture 🚀
+  
 ## 🌐 Let's Connect:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/d_dr.as.hti_r) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/drashti-ruparelia-67b7432b6) [![Email](https://img.shields.io/badge/Email-%23D14836.svg?logo=gmail&logoColor=white)](mailto:drashtiruparelia.678@gmail.com)
 
