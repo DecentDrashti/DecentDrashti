@@ -1,6 +1,6 @@
 # 👩‍💻 Drashti Ruparelia
 
-Hey there! 👋 I'm **Drashti Ruparelia**, a passionate learner and aspiring software engineer from 🇮🇳. I'm on a mission to **turn my dreams into reality**  through code, creativity, and consistency.
+Hey there! 👋 I'm **Drashti Ruparelia**, a passionate learner and aspiring software engineer. I'm on a mission to **turn my dreams into reality**  through code, creativity, and consistency.
 
 ## 🌱 Currently Pursuing:
 🎓 **B.Tech in Computer Science and Engineering**  
