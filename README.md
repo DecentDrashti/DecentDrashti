@@ -18,6 +18,25 @@ Hey there! 👋 I'm **Drashti Ruparelia**, a passionate learner and aspiring sof
 - Contributing to open source 🔗
 - Building Mern Stack 
 - Learning about AI, Game Development, and Software Architecture 🚀
+
+## 📘 Featured Learning Projects
+
+### 🔹 Java Fundamentals – Topic-Wise Learning Repository
+📌 A beginner-friendly, structured Java repository designed to help students **build strong programming fundamentals**.
+
+**What it covers:**
+- Core Java concepts (Classes, Objects, Methods, Constructors)
+- OOP fundamentals (Access Specifiers, Recursion)
+- Arrays & 2D Arrays
+- Java Collections (ArrayList, LinkedList, HashMap, HashSet)
+- File Handling, Date & Time, Scanner usage
+- 📈 Gradually expanding with additional Java concepts and practical examples
+
+🔗 **Explore the Project:** https://github.com/DecentDrashti/Basics-Java  
+
+> Built as a **teaching and learning resource**, with the intention of making Java fundamentals **clear, practical, and approachable** for beginners.
+
+
   
 ## 🌐 Let's Connect:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/d_dr.as.hti_r) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/drashti-ruparelia-67b7432b6) [![Email](https://img.shields.io/badge/Email-%23D14836.svg?logo=gmail&logoColor=white)](mailto:drashtiruparelia.678@gmail.com)
