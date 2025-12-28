@@ -32,7 +32,8 @@ Hey there! 👋 I'm **Drashti Ruparelia**, a passionate learner and aspiring sof
 - File Handling, Date & Time, Scanner usage
 - 📈 Gradually expanding with additional Java concepts and practical examples
 
-🔗 **Explore the Project:** https://github.com/DecentDrashti/Basics-Java  
+🔗**Explore the Project:** [Java Fundamentals – Basics-Java](https://github.com/DecentDrashti/Basics-Java)
+
 
 > Built as a **teaching and learning resource**, with the intention of making Java fundamentals **clear, practical, and approachable** for beginners.
 
