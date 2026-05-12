@@ -4,7 +4,6 @@ Hey there! 👋 I'm **Drashti Ruparelia**, a passionate learner and aspiring sof
 
 ## 🌱 Currently Pursuing:
 🎓 **B.Tech in Computer Science and Engineering**  
-📍 Darshan University, Rajkot, Gujarat
 
 ## 🔥 About Me
 - 📌 Sharpening my skills in Data Structures & Algorithms, Web Development with .NET Core and MERN Stack  
