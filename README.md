@@ -60,7 +60,7 @@ Hey there! 👋 I'm **Drashti Ruparelia**, a passionate learner and aspiring sof
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default)
 
 ### 🔝 Top Contributed Repo
-![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=DecentDrashti&limit=5&theme=radical&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=DecentDrashti&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 ---
 <!--[![](https://komarev.com/ghpvc/?username=DecentDrashti&icon=0&color=0)](https://visitcount.itsvg.in)-->
